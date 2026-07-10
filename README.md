@@ -1,5 +1,5 @@
-<!-- Vibrant Gradient Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Somesh%20Chaudhary&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Backend%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<!-- Vibrant Gradient Animated Header (Fixed Link) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Somesh%20Chaudhary&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20and%20ML%20Engineer%20%7C%20Backend%20Developer&descAlignY=61&descSize=20&animation=fadeIn" width="100%"/>
 
 <!-- Social Badges (Compact & Colorful) -->
 <div align="center">
@@ -10,7 +10,7 @@
 
 <!-- Dynamic Typing Effect with Neon Color -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F72C5B&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems+with+Java;Training+Machine+Learning+Models;Open-Source+Contributor+%40+IIT+Ropar;Turning+Coffee+into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F72C5B&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems+with+Java;Training+Machine+Learning+Models;Open-Source+Contributor+%40+IIT+Ropar" alt="Typing SVG" />
 </p>
 
 <!-- Compact About Me + Lo-Fi Aesthetic GIF Layout -->
@@ -32,11 +32,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,sql,cpp,react,nodejs,flask,mysql,mongodb,aws,git,linux,postman,opencv&theme=dark&perline=10" />
 </p>
-
-<!-- Live GitHub Graph for the "Wow Factor" -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somesh-chaudhary&theme=tokyonight&hide_border=true&height=250" alt="activity graph"/>
-</div>
 
 <!-- Matching Gradient Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
