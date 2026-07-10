@@ -1,30 +1,48 @@
 <div align="center">
-  <h2>✦ somesh chaudhary ✦</h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2EE59D&center=true&vCenter=true&width=600&lines=ai+%26+ml+engineer;backend+developer;open-source+%40+iit+ropar;building+scalable+systems" alt="Typing SVG" />
+  <!-- Animated Twinkling Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:303030&height=220&section=header&text=somesh%20chaudhary&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20&%20ML%20Engineer%20%7C%20Backend%20Developer&descAlignY=60&descSize=18&animation=twinkling" width="100%"/>
+
+  <br><br>
+
+  <!-- Ultra-Minimal Social Badges -->
+  <a href="https://linkedin.com/in/somesh-chaudhary"><img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin"/></a>
+  <a href="mailto:somesh.cx@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail"/></a>
+  <a href="https://github.com/somesh-chaudhary"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"/></a>
+
+  <br><br>
+
+  <i>❝ crafting intelligent systems & scalable backends. ❞</i>
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/somesh-chaudhary"><img src="https://img.shields.io/badge/linkedin-%23121212.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:somesh.cx@gmail.com"><img src="https://img.shields.io/badge/email-%23121212.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/somesh-chaudhary"><img src="https://img.shields.io/badge/github-%23121212.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<br><br>
 
-<br>
+<!-- Floating Layout for About Me & GIF -->
+<div>
+  <img align="right" src="https://i.pinimg.com/originals/26/5d/df/265ddf905e4668ba418f4070a2a4b958.gif" width="300" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);"/>
 
-### 🪩 the rundown.
+  ### ⋆｡°✩ the rundown
 
-> **tl;dr** — i build scalable backends, train AI models, and contribute to impactful open-source projects.
+  <br>
 
-- 🎓 **currently:** wrapping up my B.E. in AI & ML @ Atria Institute of Technology
-- 💼 **working as:** Java Full-Stack Developer Intern @ **Infosys Springboard** (building for *DecisionHub*)
-- 🔬 **researching:** Open-Source Contributor @ **IIT Ropar (VLED Lab)** — coding for India-centric problems
-- 🏆 **flex:** Top 15,000 nationally in Google The Big Code 2026
-- ⚡ **vibe:** fueled by caffeine, clean code, and distributed systems.
+  ↳ 🎓 **currently:** wrapping up my B.E. in AI & ML @ Atria IT <br><br>
+  ↳ 💼 **building:** backend for DecisionHub @ **Infosys Springboard** <br><br>
+  ↳ 🔬 **research:** open-source @ **IIT Ropar (VLED Lab)** <br><br>
+  ↳ 🏆 **flex:** Top 15,000 nationally — Google The Big Code 2026 <br>
+</div>
 
-<br>
+<br clear="all" />
+<br><br>
 
-### 💻 the stack.
+<!-- Centered Tech Stack -->
+<div align="center">
+  <h3> ✧ tech arsenal ✧ </h3>
+  <br>
+  <img src="https://skillicons.dev/icons?i=java,python,js,sql,cpp,react,nodejs,flask,mysql,mongodb,aws,git,linux,postman,opencv&theme=dark&perline=8" />
+</div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,sql,php,cpp,react,nodejs,flask,mysql,mongodb,aws,git,linux,postman,opencv&theme=dark&perline=8" />
-</p>
+<br><br>
+
+<!-- Aesthetic Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:303030,100:121212&height=120&section=footer" width="100%"/>
+</div>
