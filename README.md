@@ -1,6 +1,4 @@
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Somesh%20Chaudhary&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20and%20ML%20Engineer%20%7C%20Backend%20Developer&descAlignY=61&descSize=20&animation=fadeIn" width="100%"/>
-</div>
 
 <div align="center">
   <a href="https://linkedin.com/in/somesh-chaudhary"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -8,13 +6,9 @@
   <a href="https://github.com/somesh-chaudhary"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
-<br>
-
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F72C5B&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems+with+Java;Training+Machine+Learning+Models;Open-Source+Contributor+%40+IIT+Ropar" alt="Typing SVG" />
-</div>
-
-<br>
+</p>
 
 <h3 align="left"> 🚀 The Rundown </h3>
 <p align="left">
@@ -29,19 +23,9 @@
 
 <br clear="all" />
 
-<h3 align="center"> 📊 Developer Stats </h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=somesh-chaudhary&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somesh-chaudhary&layout=compact&theme=radical&hide_border=true" height="165"/>
-</div>
-
-<br>
-
 <h3 align="center"> 🛠️ Tech Arsenal </h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,sql,cpp,react,nodejs,flask,mysql,mongodb,aws,git,linux,postman,opencv&theme=dark&perline=10" />
 </p>
 
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</div>
