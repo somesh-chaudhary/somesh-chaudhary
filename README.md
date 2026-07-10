@@ -1,48 +1,42 @@
+<!-- Vibrant Gradient Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Somesh%20Chaudhary&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20Backend%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+
+<!-- Social Badges (Compact & Colorful) -->
 <div align="center">
-  <!-- Animated Twinkling Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:303030&height=220&section=header&text=somesh%20chaudhary&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20&%20ML%20Engineer%20%7C%20Backend%20Developer&descAlignY=60&descSize=18&animation=twinkling" width="100%"/>
-
-  <br><br>
-
-  <!-- Ultra-Minimal Social Badges -->
-  <a href="https://linkedin.com/in/somesh-chaudhary"><img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin"/></a>
-  <a href="mailto:somesh.cx@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail"/></a>
-  <a href="https://github.com/somesh-chaudhary"><img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"/></a>
-
-  <br><br>
-
-  <i>❝ crafting intelligent systems & scalable backends. ❞</i>
+  <a href="https://linkedin.com/in/somesh-chaudhary"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:somesh.cx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/somesh-chaudhary"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
-<br><br>
+<!-- Dynamic Typing Effect with Neon Color -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F72C5B&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems+with+Java;Training+Machine+Learning+Models;Open-Source+Contributor+%40+IIT+Ropar;Turning+Coffee+into+Code" alt="Typing SVG" />
+</p>
 
-<!-- Floating Layout for About Me & GIF -->
-<div>
-  <img align="right" src="https://i.pinimg.com/originals/26/5d/df/265ddf905e4668ba418f4070a2a4b958.gif" width="300" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);"/>
-
-  ### ⋆｡°✩ the rundown
-
-  <br>
-
-  ↳ 🎓 **currently:** wrapping up my B.E. in AI & ML @ Atria IT <br><br>
-  ↳ 💼 **building:** backend for DecisionHub @ **Infosys Springboard** <br><br>
-  ↳ 🔬 **research:** open-source @ **IIT Ropar (VLED Lab)** <br><br>
-  ↳ 🏆 **flex:** Top 15,000 nationally — Google The Big Code 2026 <br>
-</div>
+<!-- Compact About Me + Lo-Fi Aesthetic GIF Layout -->
+<h3 align="left"> 🚀 The Rundown </h3>
+<p align="left">
+  <img align="right" src="https://i.pinimg.com/originals/a4/df/76/a4df762638848db71bc1d4e6db6509f7.gif" width="280" style="border-radius: 10px; margin-left: 15px;"/>
+  
+  ↳ 🎓 <b>Currently:</b> Wrapping up B.E. in AI & ML @ Atria Institute of Technology<br>
+  ↳ 💼 <b>Building:</b> Backend for DecisionHub @ <b>Infosys Springboard</b><br>
+  ↳ 🔬 <b>Research:</b> Open-Source Contributor @ <b>IIT Ropar (VLED Lab)</b><br>
+  ↳ 🏆 <b>Flex:</b> Ranked Top 15,000 nationally in <b>Google The Big Code 2026</b><br>
+  ↳ ⚡ <b>Vibe:</b> Crafting intelligent systems, robust APIs, and solving real-world problems.
+</p>
 
 <br clear="all" />
-<br><br>
 
-<!-- Centered Tech Stack -->
+<!-- Tech Stack (Tightly Grouped) -->
+<h3 align="center"> 🛠️ Tech Arsenal </h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,sql,cpp,react,nodejs,flask,mysql,mongodb,aws,git,linux,postman,opencv&theme=dark&perline=10" />
+</p>
+
+<!-- Live GitHub Graph for the "Wow Factor" -->
 <div align="center">
-  <h3> ✧ tech arsenal ✧ </h3>
-  <br>
-  <img src="https://skillicons.dev/icons?i=java,python,js,sql,cpp,react,nodejs,flask,mysql,mongodb,aws,git,linux,postman,opencv&theme=dark&perline=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somesh-chaudhary&theme=tokyonight&hide_border=true&height=250" alt="activity graph"/>
 </div>
 
-<br><br>
-
-<!-- Aesthetic Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:303030,100:121212&height=120&section=footer" width="100%"/>
-</div>
+<!-- Matching Gradient Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
